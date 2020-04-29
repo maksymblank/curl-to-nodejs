@@ -6,6 +6,7 @@ import Check from '@material-ui/icons/Check';
 import Close from '@material-ui/icons/Close';
 import _ from 'lodash';
 import copy from 'copy-to-clipboard';
+import Head from 'next/head';
 
 export default function Home(){
   const [curl, setCurl] = useState('');
