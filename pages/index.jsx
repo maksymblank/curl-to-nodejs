@@ -64,6 +64,10 @@ export default function Home(){
 
   return (
     <main>
+      <Head>
+        <title>Convert cURL to NodeJS, Axios, Request, Fetch, SuperAgent</title>
+        <meta name={'description'} content={'A simple web utility that converts cURL commands to NodeJS, Axios, Request, Fetch, SuperAgent'} />
+      </Head>
       <div className={'container mx-auto py-16'} style={{minHeight: 'calc(100vh - 5rem)'}}>
         <h1 className={'text-center text-4xl font-bold'}>cURL to NodeJS (Axios, Request, SuperAgent, Fetch)</h1>
 
