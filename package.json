@@ -14,7 +14,7 @@
     "copy-to-clipboard": "^3.3.1",
     "js-beautify": "^1.11.0",
     "lodash": "^4.17.19",
-    "next": "9.3.6",
+    "next": "11.1.0",
     "next-redux-wrapper": "^6.0.0-rc.7",
     "react": "16.13.1",
     "react-dom": "16.13.1",
